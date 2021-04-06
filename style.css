@@ -157,4 +157,12 @@ footer{
   
   }
 
+  @media only screen and (max-width: 767px) {
 
+    table tr{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+  }
