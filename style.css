@@ -28,7 +28,6 @@ body{
 .banner-btn{
  border-radius: 5px;
  border:1px solid #e0e0e0;
- width: 100px;
  background: transparent; 
  color:#e0e0e0 !important;
 }
@@ -121,7 +120,7 @@ section{
 {
     font-size: 18px;
     min-width: 150px;
-    text-align: justify;
+    
     color: #e0e0e0;
 }
 .table td:nth-child(2) a
@@ -133,6 +132,7 @@ section{
 .table td:nth-child(3)
 {
     font-size: 16px;
+    text-align: justify;
     color: #5d5b5b;
 }
 footer span{
